@@ -12,14 +12,14 @@ This task creates a flask app that has two routes defined:
 
 Figure 1: Structure of the Flask App
 
-![Image2] (images/challenge1-2.png)
+![Image2](images/challenge1-2.png)
 
 Figure 2: Few rows of first half of the titanic datset displayed in the browser. 
 
-![Image3] (images/challenge1-3.png)
+![Image3](images/challenge1-3.png)
 
 Figure 3: Few rows of second half of the titanic datset displayed in the browser. The columns have been reversed.
 
-![Image4] (challenge1-4.png)
+![Image4](challenge1-4.png)
 
 Figure 4: Few rows of the daily time series dataset from Alpha Vantage. 
