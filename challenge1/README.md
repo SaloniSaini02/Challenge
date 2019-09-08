@@ -20,6 +20,6 @@ Figure 2: Few rows of first half of the titanic datset displayed in the browser.
 
 Figure 3: Few rows of second half of the titanic datset displayed in the browser. The columns have been reversed.
 
-![Image4](iamges/challenge1-4.png)
+![Image4](images/challenge1-4.png)
 
 Figure 4: Few rows of the daily time series dataset from Alpha Vantage. 
