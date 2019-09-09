@@ -25,7 +25,7 @@ Results:
 
 Figure1: Running app in ec2 instance.
 
-![Image2](image/image1.png)
+![Image2](image/image2.png)
 
 Figure2: Running app in ec2 instance.
 
