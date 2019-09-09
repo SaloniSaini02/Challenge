@@ -21,4 +21,16 @@ Steps:
 
 Results:
 
+![Image1](image/image1.png)
+
+Figure1: Running app in ec2 instance.
+
+![Image2](image/image2.png)
+
+Figure2: Running app in ec2 instance.
+
+![Image3](image/image3.png)
+
+Figure3: App running in browser
+
 
